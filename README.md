@@ -71,7 +71,4 @@ To train a GAN model that learns the relationship between text labels and image 
 
 ---
 
-## 👩‍💻 Author
-
-Your Name
 
